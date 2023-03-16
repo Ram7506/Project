@@ -24,3 +24,7 @@ Will try to do :
 User will get notification via Email/text releted to his order.
 Payment gateway
 
+**Note**
+
+1. Database design is in DataBase.pdf
+2. Application flow is shown in Flow_Shoping_Portal.pdf
