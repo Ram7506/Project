@@ -26,5 +26,5 @@ Payment gateway
 
 **Note**
 
-1. Database design is in DataBase.pdf
+1. Database design is shown in DataBase.pdf
 2. Application flow is shown in Flow_Shoping_Portal.pdf
