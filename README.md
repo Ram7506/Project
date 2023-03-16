@@ -23,3 +23,4 @@ Provider can register himself with role Provider as well User he can add his pro
 Will try to do : 
 User will get notification via Email/text releted to his order.
 Payment gateway
+
